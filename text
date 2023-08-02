@@ -1,0 +1,7 @@
+git init (iniciamos git)
+
+git add (preparamos para guardar) (nombre del archivo o .)
+git commit -m 'nombre de commit' (ponemos nombre a la version que guardamos)
+git push (mandarlo a github)
+
+git status (nos indica el estado de los archivos)
